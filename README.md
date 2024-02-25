@@ -29,3 +29,11 @@ In summary, the problem statement highlights the pressing need to address the ch
 
 
 Some architectures are:-
+
+# Downsampling-Upsamling Convolution
+
+![model](https://github.com/Ln11211/DHaRT/assets/91385411/5be2a432-2663-4fd4-9ead-c32a9788c82e)
+
+# UNet like
+
+![model](https://github.com/Ln11211/DHaRT/assets/91385411/a9a4e93f-e0be-4fd7-b84a-ad3e7b4880c5)
