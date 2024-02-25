@@ -1,6 +1,10 @@
 ## DHaRT
 DeHazing in Real Time . A Deep neural network approach at dehazing in real time.
 
+# GUI
+
+https://github.com/Ln11211/DHaRT/assets/91385411/1fbd9a4c-963c-4ceb-8319-92f52a6abf92
+
 Objective: The primary objective of this project is to create an artificial intelligence and machine learning (AI-ML) based algorithm that is capable of processing real-time video footage taken during indoor fire incidents.
 
 Challenges: In indoor fire situations, smoke and haze can severely impair visibility, making it extremely challenging for first responders and rescue teams to navigate and assess the situation effectively. Traditional video feeds can become practically useless due to the dense smoke and haze, which hampers the ability to make timely and informed decisions during rescue operations.
@@ -37,3 +41,5 @@ Some architectures are:-
 # UNet like
 
 ![model](https://github.com/Ln11211/DHaRT/assets/91385411/a9a4e93f-e0be-4fd7-b84a-ad3e7b4880c5)
+
+![image](https://github.com/Ln11211/DHaRT/assets/91385411/4354576a-bbe3-4637-941b-c515236a1466)
